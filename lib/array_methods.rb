@@ -1,13 +1,14 @@
 def using_include(array, element)
-
+    array.include?(element)
 end
 
 def using_sort(array)
-
+    array = ["wow","green","I"]
+    array.sort
 end
 
 def using_reverse(array)
-
+  
 end
 
 def using_first(array)
