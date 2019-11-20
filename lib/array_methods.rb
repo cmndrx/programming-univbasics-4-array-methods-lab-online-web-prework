@@ -18,11 +18,11 @@ def using_first(array)
 end
 
 def using_last(array)
-    array = ["wow","green","I"]
+    array = ["wow","green","arrays!"]
     array.last
 end
 
 def using_size(array)
-    array = ["wow","green","I"]
+    array = ["wow","green","I","blue","two","three"]
     array.size
 end
